@@ -1,0 +1,13 @@
+---
+title: "REadme"
+author: "Vishali Sairam"
+date: "20/01/2021"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+## Hi
+
+Hi my name is Vishali and I am a public policy student and a DAAD scholar at the Hertie School in Berlin. I previously graduated with an Integrated Masters in Development studies from IIT Madras. 
