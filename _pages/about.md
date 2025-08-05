@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-Hi, I’m Vishali Sairam — a Consultant Data Scientist and Policy Analyst currently working with the World Bank’s Poverty and Equity Global Practice. I work at the intersection of data, technology, and policy to address complex development challenges.
+Hi, I’m Vishali Sairam — a Consultant Data Scientist and Policy Analyst currently working with the World Bank’s Poverty and Equity Global Practice. I work at the intersection of economics, policy and technology to address complex development challenges.
 
 At the World Bank, I lead and contribute to projects such as:
 
