@@ -4,17 +4,17 @@
 
 /* Color codes used for the theme */
 $gray                       : #1c1c1e;
-$dark-gray                  : mix(#000, $gray, 10%);
-$darker-gray                : mix(#000, $gray, 10%);
-$light-gray                 : mix(#fff, $gray, 20%);
+$dark-gray                  : lighten(#000, $gray, 10%);
+$darker-gray                : lighten(#000, $gray, 10%);
+$light-gray                 : lighten(#fff, $gray, 20%);
 
 $background                 : #39393c
-$background-light           : mix(#fff, $background, 20%);
-$background-lighter         : mix(#fff, $background, 20%);
+$background-light           : lighten(#fff, $background, 20%);
+$background-lighter         : lighten(#fff, $background, 20%);
 $text                       : #dadadc;
 $link                       : #0ea1c5;
-$link-dark                  : mix(#000, $link, 15%);
-$link-light                 : mix(#fff, $link, 15%);
+$link-dark                  : darken(#000, $link, 15%);
+$link-light                 : lighten(#fff, $link, 15%);
 
 /* Color codes used for the site */
 $danger-color               : #ee5f5b;
