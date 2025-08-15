@@ -1,37 +1,36 @@
 /* ==========================================================================
    DARK THEME
    ========================================================================== */
-
 /* Color codes used for the theme */
-$gray                       : #1c1c1e;
-$dark-gray                  : lighten(#000, $gray, 10%);
-$darker-gray                : lighten(#000, $gray, 10%);
-$light-gray                 : lighten(#fff, $gray, 20%);
+$gray           : #1c1c1e;
+$dark-gray      : lighten($gray, 10%);
+$darker-gray    : lighten($gray, 20%);
+$light-gray     : lighten($gray, 40%);
 
-$background                 : #39393c
-$background-light           : lighten(#fff, $background, 20%);
-$background-lighter         : lighten(#fff, $background, 20%);
-$text                       : #dadadc;
-$link                       : #0ea1c5;
-$link-dark                  : darken(#000, $link, 15%);
-$link-light                 : lighten(#fff, $link, 15%);
+$background     : #39393c;
+$background-light   : lighten($background, 20%);
+$background-lighter : lighten($background, 40%);
+$text           : #dadadc;
+$link           : #0ea1c5;
+$link-dark      : darken($link, 15%);
+$link-light     : lighten($link, 15%);
 
 /* Color codes used for the site */
-$danger-color               : #ee5f5b;
-$info-color                 : #2f7f93;
-$notice-color               : #7a8288;
-$success-color              : #62c462;
-$warning-color              : #f89406;
+$danger-color   : #ee5f5b;
+$info-color     : #2f7f93;
+$notice-color   : #7a8288;
+$success-color  : #62c462;
+$warning-color  : #f89406;
 
 /* Other basic settings for the template */
-$border-radius              : 2px;
-$box-shadow                 : 0 1px 1px rgba(0, 0, 0, 0.125);
-$global-transition          : all 0.2s ease-in-out;
-$masthead-height            : 70px;
-$navicon-width              : 28px;
-$navicon-height             : 4px;
-$sidebar-link-max-width     : 250px;
-$sidebar-screen-min-width   : 1024px;
+$border-radius          : 2px;
+$box-shadow             : 0 1px 1px rgba(0, 0, 0, 0.125);
+$global-transition      : all 0.2s ease-in-out;
+$masthead-height        : 70px;
+$navicon-width          : 28px;
+$navicon-height         : 4px;
+$sidebar-link-max-width : 250px;
+$sidebar-screen-min-width: 1024px;
 
 /* Dark theme for the site */
 html[data-theme="dark"] {
