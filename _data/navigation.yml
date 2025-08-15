@@ -1,8 +1,6 @@
 # Navigation for Vishali Sairam's professional portfolio
 
 main:
-  - title: "Publications"
-    url: /publications/
-    
+
   - title: "CV"
     url: /cv/
