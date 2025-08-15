@@ -2,18 +2,19 @@
    DARK THEME
    ========================================================================== */
 /* Color codes used for the theme */
+
 $gray           : #1c1c1e;
-$dark-gray      : lighten($gray, 10%);
-$darker-gray    : lighten($gray, 20%);
-$light-gray     : lighten($gray, 40%);
+$dark-gray      : #222224; // lighten($gray, 10%)
+$darker-gray    : #28282a; // lighten($gray, 20%)
+$light-gray     : #373739; // lighten($gray, 40%)
 
 $background     : #39393c;
-$background-light   : lighten($background, 20%);
-$background-lighter : lighten($background, 40%);
+$background-light   : #49494c; // lighten($background, 20%)
+$background-lighter : #59595c; // lighten($background, 40%)
 $text           : #dadadc;
 $link           : #0ea1c5;
-$link-dark      : darken($link, 15%);
-$link-light     : lighten($link, 15%);
+$link-dark      : #0c8cae; // darken($link, 15%)
+$link-light     : #1bc1e6; // lighten($link, 15%)
 
 /* Color codes used for the site */
 $danger-color   : #ee5f5b;
