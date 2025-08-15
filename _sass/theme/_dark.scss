@@ -3,15 +3,15 @@
    ========================================================================== */
 
 /* Color codes used for the theme */
-$gray                       : #7a8288;
+$gray                       : #1c1c1e;
 $dark-gray                  : mix(#000, $gray, 20%);
 $darker-gray                : mix(#000, $gray, 20%);
 $light-gray                 : mix(#fff, $gray, 20%);
 
-$background                 : #2f4f4f;
-$background-light           : mix(#fff, $background, 10%);
-$background-lighter         : mix(#fff, $background, 10%);
-$text                       : #f0ffff;
+$background                 : #39393c
+$background-light           : mix(#fff, $background, 20%);
+$background-lighter         : mix(#fff, $background, 20%);
+$text                       : #dadadc;
 $link                       : #0ea1c5;
 $link-dark                  : mix(#000, $link, 15%);
 $link-light                 : mix(#fff, $link, 15%);
