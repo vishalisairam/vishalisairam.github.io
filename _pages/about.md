@@ -7,17 +7,6 @@ redirect_from:
   - /about.html
 ---
 
-Hi, I’m Vishali Sairam — an Consultant with the World Bank’s Poverty and Equity Global Practice, where I apply analytics, data science, and economic research to inform decision-making.
+I’m a consultant with the World Bank’s Poverty & Equity Team. I conduct applied quantitative research and policy analysis: India State Profiles dashboards integrating survey and administrative data; GIS/remote-sensing labor-market work using night-lights, road density, and land-use; and contributions to vulnerability indices, CEQ analyses, and welfare-scheme evaluations.
 
-At the World Bank, I lead and contribute to projects such as:
-- State Profiles integrating survey and administrative data into policy dashboards
-- GIS-based labor market analysis using nightlight, road, and land-use data for Libya and India
-- Impact assessments through CEQ studies, welfare evaluations, and vulnerability indices
-
-Previously, I led the pilot deployment of BlendNet (Microsoft Research), reaching 68,000+ users in low-connectivity regions, and co-authored a paper in ACM COMPASS 2024. I’ve also taught at Hertie School and IIM Bangalore.
-
-I hold an MPP from Hertie School (Berlin), funded by the DAAD Helmut Schmidt Scholarship, and an Integrated Master’s in Development Studies from IIT Madras, with a minor in Economics.
-
----
-
-*Interested in collaboration or have questions about my work? Feel free to reach out via email or connect on LinkedIn!*
+Recent highlights: leading World Bank dashboard initiatives; managing Microsoft Research India’s BlendNet pilot serving 68,000+ users; co-authoring ACM COMPASS 2024; and teaching (Causal Inference, Hertie; Infrastructure, IIM Bangalore), with projects across Germany, India, and Ghana. Education: MPP, Hertie (Helmut Schmidt/DAAD Scholar); Integrated Master’s in Development Studies, IIT Madras (Economics minor).

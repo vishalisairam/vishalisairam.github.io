@@ -42,3 +42,8 @@
    
 ;
 
+/* Custom styles for About Me page */
+body.layout--single .page__content {
+  font-size: 0.85em; /* Reduce font size to 85% of default */
+}
+
