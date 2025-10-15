@@ -29,5 +29,6 @@ Previously, at Microsoft Research, I led research and analytics for BlendNet, a 
 
 I hold a Master’s in Public Policy from the Hertie School (DAAD Helmut Schmidt Scholar) and an Integrated Master’s in Development Studies from IIT Madras.
 
-Interests: economics, policy, technology
-Contact: vishalisairam@gmail.com 
+**Interests:** economics, policy, technology  
+
+**Contact:** [vishalisairam@gmail.com](mailto:vishalisairam@gmail.com)
