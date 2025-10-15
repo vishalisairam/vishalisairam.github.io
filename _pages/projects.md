@@ -3,7 +3,7 @@ layout: page
 title: projects
 permalink: /projects/
 description: A growing collection of your cool projects.
-nav: true
+nav: false
 nav_order: 3
 display_categories: [work, fun]
 horizontal: false
@@ -41,11 +41,10 @@ horizontal: false
 
 <!-- Display projects without categories -->
 
-{% assign sorted_projects = site.projects | sort: "importance" %}
-
+  {% assign sorted_projects = site.projects | sort: "importance" %}
   <!-- Generate cards for each project -->
 
-{% if page.horizontal %}
+  {% if page.horizontal %}
 
   <div class="container">
     <div class="row row-cols-1 row-cols-md-2">
