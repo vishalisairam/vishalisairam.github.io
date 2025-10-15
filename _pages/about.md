@@ -23,7 +23,7 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Hi! I’m Vishali, an economist and data scientist working at the intersection of economics, data, and applied research. I currently work as a Consultant at the World Bank. My work focuses on using large datasets, spatial models, and statistical methods to understand economic systems and patterns of growth and inequality. I’ve worked on projects involving labor markets, firm dynamics, and regional development, integrating survey, satellite, and administrative data into analytical and visualization tools.
+Hi! I’m Vishali, an economist and data scientist working at the intersection of policy, data, and applied research. I currently work as a Consultant at the World Bank. My work focuses on using large datasets, spatial models, and statistical methods to understand economic systems and patterns of growth and inequality. I’ve worked on projects involving labor markets, firm dynamics, and regional development, integrating survey, satellite, and administrative data into analytical and visualization tools.
 
 Previously, at Microsoft Research, I worked on BlendNet, a cloud–edge platform that used AI to improve digital content delivery in low-connectivity regions, where I led the research and analytics for the pilot deployment.
 
