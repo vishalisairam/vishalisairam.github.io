@@ -8,4 +8,4 @@ cv_pdf: vish_cv_15oct.pdf
 description:
 ---
 
-[Download PDF](/assets/pdf/vish_cv_15oct.pdf){: .btn .btn-primary}
+<a href="/assets/pdf/vish_cv_15oct.pdf" class="btn btn-primary" target="_blank">Download PDF</a>
